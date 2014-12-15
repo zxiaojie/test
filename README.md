@@ -1,4 +1,4 @@
 test
 ====
 
-my first repository in git
+my first repository in git, testing.
